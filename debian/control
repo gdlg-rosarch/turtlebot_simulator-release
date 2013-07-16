@@ -1,0 +1,12 @@
+Source: ros-hydro-turtlebot-gazebo
+Section: misc
+Priority: extra
+Maintainer: "Marcus Liebhardt <marcus.liebhardt@yujinrobot.com>"
+Build-Depends: debhelper (>= 7.0.50~), ros-hydro-catkin
+Homepage: http://ros.org/wiki/turtlebot_gazebo
+Standards-Version: 3.9.2
+
+Package: ros-hydro-turtlebot-gazebo
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-hydro-gazebo-ros, ros-hydro-robot-state-publisher, ros-hydro-turtlebot-description, ros-hydro-xacro
+Description: Gazebo launchers and worlds for TurtleBot simulation
