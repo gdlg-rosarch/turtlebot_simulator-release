@@ -1,0 +1,12 @@
+Source: ros-hydro-turtlebot-simulator
+Section: misc
+Priority: extra
+Maintainer: OSRF <turtlebot@osrfoundation.com>
+Build-Depends: debhelper (>= 7.0.50~), ros-hydro-catkin
+Homepage: http://ros.org/wiki/turtlebot_simulator
+Standards-Version: 3.9.2
+
+Package: ros-hydro-turtlebot-simulator
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-hydro-turtlebot-gazebo
+Description: Catkin metapackage for the turtlebot_simulator stack
