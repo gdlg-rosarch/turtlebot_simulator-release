@@ -1,3 +1,24 @@
+## turtlebot_simulator - 2.1.1-0
+
+User `jorge@concert` released the packages in the `turtlebot_simulator` repository by running `/usr/bin/bloom-release --track hydro --rosdistro hydro turtlebot_simulator` on `Mon, 14 Oct 2013 05:13:01 -0000`
+
+These packages were released:
+- `turtlebot_gazebo`
+- `turtlebot_simulator`
+
+Version of package(s) in repository `turtlebot_simulator`:
+- rosdistro version: `2.1.0-1`
+- old version: `2.1.0-2`
+- new version: `2.1.1-0`
+
+Versions of tools used:
+- bloom version: `0.4.4`
+- catkin_pkg version: `0.1.20`
+- rosdep version: `0.10.22`
+- rosdistro version: `0.2.14`
+- vcstools version: `0.1.31`
+
+
 ## turtlebot_simulator - 2.1.0-2
 
 User `jorge@concert` released the packages in the `turtlebot_simulator` repository by running `/usr/bin/bloom-release --track hydro --rosdistro hydro turtlebot_simulator` on `Mon, 09 Sep 2013 01:09:11 -0000`
