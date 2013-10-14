@@ -1,0 +1,20 @@
+ros-hydro-turtlebot-simulator (2.1.1-0quantal) quantal; urgency=high
+
+
+
+ -- OSRF <turtlebot@osrfoundation.com>  Sun, 13 Oct 2013 15:00:00 -0000
+
+ros-hydro-turtlebot-simulator (2.1.0-0quantal) quantal; urgency=high
+
+  * Add bugtracker and repo info URLs.
+
+ -- OSRF <turtlebot@osrfoundation.com>  Thu, 29 Aug 2013 15:00:00 -0000
+
+ros-hydro-turtlebot-simulator (2.0.0-0quantal) quantal; urgency=high
+
+  * Migrated to use stand-alone Gazebo installation
+  * All packages have been catkinized
+
+ -- OSRF <turtlebot@osrfoundation.com>  Mon, 15 Jul 2013 15:00:00 -0000
+
+
