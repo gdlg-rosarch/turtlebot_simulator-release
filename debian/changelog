@@ -1,0 +1,23 @@
+ros-hydro-turtlebot-gazebo (2.1.1-0raring) raring; urgency=high
+
+  * Rename cmd_vel_mux as yocs_cmd_vel_mux.
+
+ -- Marcus Liebhardt <marcus.liebhardt@yujinrobot.com>  Sun, 13 Oct 2013 15:00:00 -0000
+
+ros-hydro-turtlebot-gazebo (2.1.0-0raring) raring; urgency=high
+
+  * Add navigation demos on Gazebo on a playground world.
+  * Add bugtracker and repo info URLs.
+  * Add cmd_vel_mux for create and roomba.
+  * Do not use robot_pose_ekf for kobuki base.
+
+ -- Marcus Liebhardt <marcus.liebhardt@yujinrobot.com>  Thu, 29 Aug 2013 15:00:00 -0000
+
+ros-hydro-turtlebot-gazebo (2.0.0-0raring) raring; urgency=high
+
+  * Migrated to use stand-alone Gazebo installation
+  * All packages have been catkinized
+
+ -- Marcus Liebhardt <marcus.liebhardt@yujinrobot.com>  Mon, 15 Jul 2013 15:00:00 -0000
+
+
