@@ -1,0 +1,12 @@
+Source: ros-indigo-turtlebot-simulator
+Section: misc
+Priority: extra
+Maintainer: OSRF <turtlebot@osrfoundation.com>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin
+Homepage: http://ros.org/wiki/turtlebot_simulator
+Standards-Version: 3.9.2
+
+Package: ros-indigo-turtlebot-simulator
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-turtlebot-gazebo, ros-indigo-turtlebot-stage, ros-indigo-turtlebot-stdr
+Description: Catkin metapackage for the turtlebot_simulator stack
