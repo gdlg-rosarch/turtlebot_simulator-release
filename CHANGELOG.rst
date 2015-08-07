@@ -2,6 +2,9 @@
 Changelog for package turtlebot_simulator
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.2.1 (2015-08-07)
+------------------
+
 2.2.0 (2014-12-30)
 ------------------
 * add turtlebot_stdr in meta package fixes `#44 <https://github.com/turtlebot/turtlebot_simulator/issues/44>`_
