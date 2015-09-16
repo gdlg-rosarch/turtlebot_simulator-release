@@ -1,0 +1,12 @@
+Source: ros-indigo-turtlebot-gazebo
+Section: misc
+Priority: extra
+Maintainer: Marcus Liebhardt <marcus.liebhardt@yujinrobot.com>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin
+Homepage: http://ros.org/wiki/turtlebot_gazebo
+Standards-Version: 3.9.2
+
+Package: ros-indigo-turtlebot-gazebo
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-depthimage-to-laserscan, ros-indigo-diagnostic-aggregator, ros-indigo-gazebo-ros, ros-indigo-kobuki-gazebo-plugins, ros-indigo-robot-pose-ekf, ros-indigo-robot-state-publisher, ros-indigo-turtlebot-bringup, ros-indigo-turtlebot-description, ros-indigo-turtlebot-navigation, ros-indigo-xacro, ros-indigo-yocs-cmd-vel-mux
+Description: Gazebo launchers and worlds for TurtleBot simulation
