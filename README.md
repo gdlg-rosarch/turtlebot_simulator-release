@@ -1,3 +1,28 @@
+## turtlebot_simulator (indigo) - 2.2.1-1
+
+The packages in the `turtlebot_simulator` repository were released into the `indigo` distro by running `/usr/bin/bloom-release turtlebot_simulator -t indigo -r indigo` on `Wed, 16 Sep 2015 02:56:19 -0000`
+
+These packages were released:
+- `turtlebot_gazebo`
+- `turtlebot_simulator`
+- `turtlebot_stage`
+- `turtlebot_stdr`
+
+Version of package(s) in repository `turtlebot_simulator`:
+- upstream repository: https://github.com/turtlebot/turtlebot_simulator.git
+- release repository: https://github.com/turtlebot-release/turtlebot_simulator-release.git
+- rosdistro version: `2.2.1-0`
+- old version: `2.2.1-0`
+- new version: `2.2.1-1`
+
+Versions of tools used:
+- bloom version: `0.5.20`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.2`
+- rosdistro version: `0.4.2`
+- vcstools version: `0.1.37`
+
+
 ## turtlebot_simulator (indigo) - 2.2.1-0
 
 The packages in the `turtlebot_simulator` repository were released into the `indigo` distro by running `/usr/bin/bloom-release turtlebot_simulator -t indigo -r indigo` on `Fri, 07 Aug 2015 00:40:17 -0000`
