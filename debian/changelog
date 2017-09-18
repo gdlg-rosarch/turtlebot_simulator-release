@@ -1,0 +1,90 @@
+ros-kinetic-turtlebot-stage (2.2.3-0jessie) jessie; urgency=high
+
+  * Contributors: Clyde McQueen
+
+ -- Jihoon Lee <jihoonl@yujinrobot.com>  Mon, 18 Sep 2017 07:00:00 -0000
+
+ros-kinetic-turtlebot-stage (2.2.2-0jessie) jessie; urgency=high
+
+  * view frame is now base_link closes #51 <https://github.com/turtlebot/turtlebot_simulator/issues/51>
+  * Contributors: Jihoon Lee
+
+ -- Jihoon Lee <jihoonl@yujinrobot.com>  Wed, 16 Sep 2015 07:00:00 -0000
+
+ros-kinetic-turtlebot-stage (2.2.1-0jessie) jessie; urgency=high
+
+  * turtlebot_stage: add turtlebot_navigation dependency
+  * Contributors: Gaël Ecorchard
+
+ -- Jihoon Lee <jihoonl@yujinrobot.com>  Fri, 07 Aug 2015 07:00:00 -0000
+
+ros-kinetic-turtlebot-stage (2.2.0-0jessie) jessie; urgency=high
+
+  * Adds border extension to map to fix map scaling / position in stage
+  * Added changes in the stage launch file undone before because of the merge
+  * Merged
+  * Moved env fold inside stage
+  * Revert "Stage launch use env variables"
+  * Small fix for wrong file name of env script
+  * Added support for map and world file through env variables
+  * remove annotation and param install rule
+  * updated rviz configuration for dwa.
+  * add the trajectory cloud to stage's rviz view.
+  * stage only permits 'square' robots, so make sure our square fits within
+    the turtlebot defined circle otherwise it collides when it normally
+    wouldn't.
+  * redirect all params and launchers at the real turtlebot configuration files and cleanup, #21 <https://github.com/turtlebot/turtlebot_simulator/issues/21>.
+  * remove unused plugins and add the cost cloud.
+  * add turtlebot_stage
+  * Contributors: Alexander Reimann, Daniel Stonier, Jihoon Lee
+  * Adds border extension to map to fix map scaling / position in stage
+  * Added changes in the stage launch file undone before because of the merge
+  * Merged
+  * Moved env fold inside stage
+  * Revert "Stage launch use env variables"
+  * Small fix for wrong file name of env script
+  * Added support for map and world file through env variables
+  * remove annotation and param install rule
+  * updated rviz configuration for dwa.
+  * add the trajectory cloud to stage's rviz view.
+  * stage only permits 'square' robots, so make sure our square fits within
+    the turtlebot defined circle otherwise it collides when it normally
+    wouldn't.
+  * redirect all params and launchers at the real turtlebot configuration files and cleanup, #21 <https://github.com/turtlebot/turtlebot_simulator/issues/21>.
+  * remove unused plugins and add the cost cloud.
+  * add turtlebot_stage
+  * Contributors: Alexander Reimann, Daniel Stonier, Jihoon Lee
+
+ -- Jihoon Lee <jihoonl@yujinrobot.com>  Tue, 30 Dec 2014 08:00:00 -0000
+
+ros-kinetic-turtlebot-stage (2.1.1-0jessie) jessie; urgency=high
+
+
+
+ -- Jihoon Lee <jihoonl@yujinrobot.com>  Mon, 14 Oct 2013 07:00:00 -0000
+
+ros-kinetic-turtlebot-stage (2.1.0-0jessie) jessie; urgency=high
+
+
+
+ -- Jihoon Lee <jihoonl@yujinrobot.com>  Mon, 02 Sep 2013 07:00:00 -0000
+
+ros-kinetic-turtlebot-stage (2.0.0-0jessie) jessie; urgency=high
+
+
+
+ -- Jihoon Lee <jihoonl@yujinrobot.com>  Mon, 12 Aug 2013 07:00:00 -0000
+
+ros-kinetic-turtlebot-stage (1.9.1-0jessie) jessie; urgency=high
+
+
+
+ -- Jihoon Lee <jihoonl@yujinrobot.com>  Wed, 02 Jan 2013 08:00:00 -0000
+
+ros-kinetic-turtlebot-stage (1.9.0-0jessie) jessie; urgency=high
+
+
+
+ -- Jihoon Lee <jihoonl@yujinrobot.com>  Sat, 22 Dec 2012 08:00:00 -0000
+
+
