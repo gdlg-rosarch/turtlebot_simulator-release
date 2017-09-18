@@ -1,3 +1,30 @@
+## turtlebot_simulator (kinetic) - 2.2.3-0
+
+The packages in the `turtlebot_simulator` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release -t kinetic -r kinetic turtlebot_simulator` on `Mon, 18 Sep 2017 08:00:01 -0000`
+
+These packages were released:
+- `turtlebot_gazebo`
+- `turtlebot_simulator`
+- `turtlebot_stage`
+- `turtlebot_stdr`
+
+Version of package(s) in repository `turtlebot_simulator`:
+
+- upstream repository: https://github.com/turtlebot/turtlebot_simulator.git
+- release repository: https://github.com/turtlebot-release/turtlebot_simulator-release.git
+- rosdistro version: `2.2.2-0`
+- old version: `2.2.2-0`
+- new version: `2.2.3-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.26`
+- catkin_pkg version: `0.3.5`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.6.2`
+- vcstools version: `0.1.39`
+
+
 ## turtlebot_simulator (indigo) - 2.2.3-0
 
 The packages in the `turtlebot_simulator` repository were released into the `indigo` distro by running `/usr/bin/bloom-release -t indigo -r indigo turtlebot_simulator` on `Mon, 18 Sep 2017 07:56:05 -0000`
