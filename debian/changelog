@@ -1,0 +1,46 @@
+ros-kinetic-turtlebot-simulator (2.2.3-0jessie) jessie; urgency=high
+
+
+
+ -- OSRF <turtlebot@osrfoundation.com>  Mon, 18 Sep 2017 07:00:00 -0000
+
+ros-kinetic-turtlebot-simulator (2.2.2-0jessie) jessie; urgency=high
+
+
+
+ -- OSRF <turtlebot@osrfoundation.com>  Wed, 16 Sep 2015 07:00:00 -0000
+
+ros-kinetic-turtlebot-simulator (2.2.1-0jessie) jessie; urgency=high
+
+
+
+ -- OSRF <turtlebot@osrfoundation.com>  Fri, 07 Aug 2015 07:00:00 -0000
+
+ros-kinetic-turtlebot-simulator (2.2.0-0jessie) jessie; urgency=high
+
+  * add turtlebot_stdr in meta package fixes #44 <https://github.com/turtlebot/turtlebot_simulator/issues/44>
+  * add turtlebot_stage
+  * Contributors: Jihoon Lee
+
+ -- OSRF <turtlebot@osrfoundation.com>  Tue, 30 Dec 2014 08:00:00 -0000
+
+ros-kinetic-turtlebot-simulator (2.1.1-0jessie) jessie; urgency=high
+
+
+
+ -- OSRF <turtlebot@osrfoundation.com>  Mon, 14 Oct 2013 07:00:00 -0000
+
+ros-kinetic-turtlebot-simulator (2.1.0-0jessie) jessie; urgency=high
+
+  * Add bugtracker and repo info URLs.
+
+ -- OSRF <turtlebot@osrfoundation.com>  Fri, 30 Aug 2013 07:00:00 -0000
+
+ros-kinetic-turtlebot-simulator (2.0.0-0jessie) jessie; urgency=high
+
+  * Migrated to use stand-alone Gazebo installation
+  * All packages have been catkinized
+
+ -- OSRF <turtlebot@osrfoundation.com>  Tue, 16 Jul 2013 07:00:00 -0000
+
+
